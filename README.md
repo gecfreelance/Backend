@@ -1,2 +1,2 @@
 # Backend
-starting of gec backend with nest js
+This is a nextjs Api for gec backend
